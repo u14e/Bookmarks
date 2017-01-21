@@ -1,1 +1,1 @@
-- http://way.oschina.io/2016/12/15/notes/GitAdvance/
+- [Git进阶用法](http://way.oschina.io/2016/12/15/notes/GitAdvance/)
