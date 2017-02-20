@@ -1,1 +1,2 @@
 - [Getting Started with Webpack 2](https://blog.madewithenvy.com/getting-started-with-webpack-2-ed2b86c68783#.7afr14hq7)
+- [基于webpack搭建前端工程解决方案探索](https://github.com/chemdemo/chemdemo.github.io/issues/10#issuecomment-280211947)
