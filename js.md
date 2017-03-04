@@ -1,1 +1,2 @@
 - [YOU MIGHT NOT NEED JQUERY](http://youmightnotneedjquery.com/)
+- [深入浅出ES6](http://www.infoq.com/cn/articles/es6-in-depth-an-introduction?utm_source=infoq&utm_campaign=user_page&utm_medium=link)
