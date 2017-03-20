@@ -1,5 +1,6 @@
 - [前端开发面试题](https://github.com/markyun/My-blog/tree/master/Front-end-Developer-Questions)
 - [前端工作面试问题](https://github.com/h5bp/Front-end-Developer-Interview-Questions/tree/master/Translations/Chinese#js-questions)
+- [js面试的坑](http://www.cnblogs.com/libin-1/p/5865616.html)
 
 ## 面试问题
 - css盒子模型
